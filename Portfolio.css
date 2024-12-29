@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.c-image {
+    border: solid white 3px;
+    width: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.banner-section-bg-container {
+    background-color: #191a1d;
+    height: 100vh;
+
+}
+
+.banner-section-image {
+    width: 250px;
+}
+
+.banner-section-heading {
+    color: white;
+    font-size: 50px;
+}
+
+.banner-section-name {
+    color: #4b6cc1;
+}
+
+.banner-section-description {
+    color: #9aa5b1;
+    font-size: 25px;
+}
+
+.banner-section-button {
+    background-color: #4b6cc1;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border: solid 0;
+    border-radius: 5px;
+}
+
+
+
+
+.about-me-section-bg-container {
+    background-color: #323f4b;
+}
+
+.facts {
+    color: #cced00;
+    font-size: 30px;
+}
+
+.about-me {
+    color: white;
+    font-size: 40px;
+}
+
+.about-me-section-para {
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+
+.skills-section-bg-container {
+    background-color: #1f2933;
+}
+
+.skills-section-skill-bg {
+    background-color: #323f4b;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+
+}
+
+.skills-section-image {
+    width: 100px;
+    padding-bottom: 10px;
+}
+
+.skills-section-headings {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+
+.projects-section-bg-container {
+    background-color: #3e4c59;
+}
+
+.projects-section-card-container {
+    background-color: #323f4b;
+    font-family: Roboto;
+    border-radius: 10px;
+}
+
+.projects-section-card-skill-name {
+    color: #9aa5b1;
+    font-size: 12px;
+}
+
+.projects-section-card-website-name {
+    color: white;
+}
+
+.projects-section-card-description {
+    color: #9aa5b1;
+    font-size: 16px;
+}
+
+.projects-section-card-read-more-section {
+    color: #cced00;
+}
+
+
+
+
+
+.services-section-bg-container {
+    background-color: #52606d;
+    font-family: Roboto;
+    width: 100%;
+}
+
+.services-section-skill-section {
+    background-color: #323f4b;
+    width: 100%;
+    border-radius: 7px;
+    padding: 15px;
+}
+
+.services-section-skill-image {
+    height: 60px;
+}
+
+.services-section-skill-name {
+    font-size: 20px;
+    font-weight: 800;
+    color: white;
+}
+
+.services-section-skill-description {
+    color: #9aa5b1;
+    font-size: 18px;
+}
+
+
+
+.work-done-section-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+}
+
+
+
+
+.testimonials-section-bg-container {
+    background-color: #1f2933;
+    width: 100%;
+    font-family: Roboto;
+}
+
+.testimonials-section-carousel-bg {
+    width: 100%;
+    background-color: #323f4b;
+}
+
+.testimonials-section-card-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.testimonials-section-review {
+    color: #9aa5b1;
+    font-size: 18px;
+}
+
+
+
+.footer-section-bg-container {
+    background-color: #0d2436;
+    font-family: Roboto;
+}
+
+.footer-section-profile-pic {
+    width: 55px;
+    border-radius: 30px;
+}
+
+.footer-section-heads {
+    color: #cced00;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.footer-section-para {
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+.footer-section-icons {
+    color: #5a7184;
+}
+
+.footer-section-copyright-section {
+    background-color: #001c32;
+    width: 100%;
+    text-align: center;
+}
