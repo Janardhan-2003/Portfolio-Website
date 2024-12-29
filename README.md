@@ -1,4 +1,3 @@
-```markdown
 # Portfolio Website
 
 This is the portfolio website of Jenny Wilson, showcasing skills, projects, and professional achievements.
@@ -21,4 +20,4 @@ Visit the live website: [https://kjportfolio.ccbp.tech/](https://kjportfolio.ccb
 
 - HTML, CSS, Bootstrap, JavaScript
 - Font Awesome icons and Google Fonts
-```
+
